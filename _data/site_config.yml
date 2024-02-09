@@ -22,8 +22,8 @@ breadcrumbs:
 cookie_consent_form:
   enabled: false
 country:
-  name: Australia
-  adjective: Australian
+  name: Morocco
+  adjective: Moroccan
 create_goals:
   previous_next_links: false
   goal_content_heading: ''
@@ -56,8 +56,8 @@ disclaimer:
   message: ''
   hidden: false
 email_contacts:
-  questions: test@example.com
-  suggestions: test@example.com
+  questions: contact@hcp.ma
+  suggestions: contact@hcp.ma
   functional: test@example.com
 empty_metadata_placeholder: ''
 empty_metadata_placeholder_sources: ''
@@ -145,7 +145,10 @@ languages:
   - en
   - es
 languages_public: []
-logos: []
+logos:
+  - language: ''
+    src: 'https://www.hcp.ma/photo/titre_46809134.png?v=1645543347'
+    alt: HCP
 map_layers: []
 map_options:
   disaggregation_controls: false
