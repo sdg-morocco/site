@@ -217,10 +217,10 @@ progress_status:
   status_help: ''
   status_types: []
 progressive_web_app:
-  enabled: false
-  name: ''
-  short_name: ''
-  precaching: false
+  enabled: true
+  name: Sustainable Development Goals Indicators - Morocco
+  short_name: SDGs Morocco
+  precaching: true
 proxy_indicators:
   label: ''
   description: ''
