@@ -20,4 +20,4 @@ remote_data_prefix: "https://sdg-morocco-prod.github.io/production-data"
 
 analytics:
   # For production, you likely want to enter a Google Analytics code below.
-  ga_prod: ''
+  ga_prod: 'G-R63RD22MXX'
